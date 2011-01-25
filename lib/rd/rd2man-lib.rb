@@ -236,6 +236,6 @@ $Visitor_Class = RD::RD2MANVisitor
 =begin
 == script info.
  RD to MAN translate library for rdfmt.rb
- $Id: rd2man-lib.rb,v 1.9 2003/08/02 15:45:49 tosh Exp $
+ $Id$
  copyright WATANABE Hirofumi <eban@os.rim.or.jp>, 2000
 =end

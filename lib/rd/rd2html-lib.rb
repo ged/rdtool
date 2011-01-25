@@ -485,6 +485,6 @@ $RD2_Sub_OptionParser = "rd/rd2html-opt"
 =begin
 == script info.
  RD to HTML translate library for rdfmt.rb
- $Id: rd2html-lib.rb,v 1.53 2003/03/08 12:45:08 tosh Exp $
+ $Id$
 
 =end

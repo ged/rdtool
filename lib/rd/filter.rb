@@ -251,5 +251,5 @@ end
 =begin
 == script info.
  filter structure.
- $Id: filter.rb,v 1.7 2001/03/19 15:20:08 toshirok Exp $
+ $Id$
 =end

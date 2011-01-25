@@ -1,9 +1,9 @@
-HISTORY
-MANIFEST
+HISTORY.rd
 README.html
 README.ja.html
 README.rd
 README.rd.ja
+Rakefile
 bin/rd2
 bin/rdswap.rb
 doc/rd-draft.html

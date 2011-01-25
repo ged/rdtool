@@ -2,7 +2,8 @@
 = RDtool 0.6.21
 == What is RDtool
 
-RD is Ruby's POD. RDtool is formatter for RD.
+RD is Ruby's POD. RDtool is a formatter for RD. This is a re-packaging of
+rdtool as a Rubygem.
 
 == What is Changed
 
@@ -10,9 +11,7 @@ See HISTORY.
 
 == How to Install
 
- (1)((%su%)) if you install into public directories.
- (2)((%ruby setup.rb%))
- (3)If you want to use , utils/rd-mode.el, install it ((*by hand*)).
+ ((%sudo gem install rdtool%))
 
 == How to use
 
@@ -29,13 +28,16 @@ the indication of format-library. For example,
 
   % rd2 -r rd/rd2html-lib.rb --help
 
-rd2 load "${HOME}/.rd2rc" when it runs.
+rd2 loads "${HOME}/.rd2rc" when it runs, so you can use it to set 
+default options.
 
 == How to write RD?
 
 Please read doc/rd-draft.rd.
 
-== About bug report
+== About bug reports
+
+This is a re-packaged version 
 
 If you find a bug in RDtool, please E-mail me
 ((<URL:mailto:moonwolf@moonwolf.com>)).

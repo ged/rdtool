@@ -208,7 +208,7 @@ end # RD
 =begin
 == script info.
  abstruct class for visitor of RDTree.
- $Id: rdvisitor.rb,v 1.46 2003/02/18 16:20:25 tosh Exp $
+ $Id$
 
 =end
 
