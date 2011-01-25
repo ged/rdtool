@@ -1,3 +1,4 @@
+ChangeLog
 HISTORY.rd
 README.html
 README.ja.html
@@ -45,9 +46,6 @@ lib/rd/search-file.rb
 lib/rd/tree.rb
 lib/rd/version.rb
 lib/rd/visitor.rb
-makerdtool.rb
-setup.rb
-test.rb
 test/data/includee1.html
 test/data/includee2.html
 test/data/includee3.nothtml

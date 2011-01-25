@@ -1,2 +1,8 @@
 racc\.out
 \.tab\.rb$
+\.html$
+^ChangeLog$
+pkg/
+
+^ChangeLog$
+^README\.html$

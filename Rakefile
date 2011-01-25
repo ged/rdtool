@@ -100,7 +100,7 @@ end
 
 
 # RD -> HTML rule
-rule '.html' => '.rd' do |task|
+rule( /(\.\w+)\.html$/ => proc {|name| name.sub(/(\.\w+)\.html$/) { '.rd' + $1.to_s } } ) do |task|
 	require 'rd/rdfmt'
 	require 'rd/rd2html-lib'
 
